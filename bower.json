@@ -11,6 +11,8 @@
     "output"
   ],
   "dependencies": {
+    "purescript-prelude": "git@github.com:pure14/purescript-prelude.git#~0.1.0",
+    "purescript-eff": "git@github.com:pure14/purescript-eff.git",
     "purescript-console": "git@github.com:pure14/purescript-console.git"
   }
 }
